@@ -1,0 +1,187 @@
+.top-line{   
+    background-color: green;
+    align-items: center; 
+    display: flex;
+    height: 7vh;
+}
+.top-menu{
+    font-size: 20px;
+    align-items: center; 
+    display: flex;
+}
+.top-menu-left{
+    margin: 0px 000px;
+    align-items: center; 
+    display: flex;
+}
+
+.top-menu-right{
+    margin: 0px 400px;  
+    align-items: center; 
+    display: flex;
+}
+#top-logo-img{
+    margin: 0px 200px;
+    padding-left: 25vh;
+}
+.center{
+    background-color: aquamarine;
+    height: 95vh;
+}
+.top-center{
+    padding-top: 2vh;
+    display: flex;
+    align-items: center;
+    font-size: 60;
+}
+#sqd-free{
+    padding-left: 40vh;
+    font-size: 20px;
+    white-space: nowrap;
+}
+.top-center-right{
+    padding-left: 70vh;
+}
+.center-center{
+    padding-top: 25vh;
+    text-align: center;
+}
+#welc-to-sqd{
+    font-size: 60px;
+}
+#we-are-group{
+    font-size: 30px;
+}
+.white-background{
+    background-color: white;
+    height: 2000px;
+}
+.about-us{
+    text-align: center;
+    font-size: 40px;
+}
+#about-us{
+
+}
+.authors{
+    
+}
+.authors1{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.first-author{
+    align-items: center;
+    text-align: center;
+}
+.second-author{
+    align-items: center;
+    text-align: center;
+}
+.third-author{
+    align-items: center;
+    text-align: center;
+}
+.fourth-author{
+    align-items: center;
+    text-align: center;
+}
+.our-service{
+    text-align: center;
+    font-size: 40px;
+}
+#our-service{
+
+}
+.services{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.print{
+    word-wrap:break-word
+}
+.web-design{
+    word-wrap:break-word
+
+}
+.photography{
+    word-wrap:break-word
+}
+.cloud-system{
+    word-wrap:break-word
+}   
+.get-in-touch{
+    text-align: center;
+    font-size: 40px;
+}
+#get-in-touch{
+
+}
+.contact-menu{
+    
+}
+.name{
+
+}
+#name{
+
+}
+.email{
+
+}
+#email{
+
+}
+.subject{
+
+}
+.message{
+
+}
+#message{
+
+}
+.button{
+
+}
+.contact-menu{
+
+}
+#main-office{
+
+}
+#adress{
+
+}
+#company{
+
+}
+#contact-phone{
+
+}
+.email-contact{
+
+}
+#email-contact{
+
+}
+.social-networks{
+
+}
+#were-on-social-networks{
+    
+}
+.bottom-line{
+    background-color: #67b0d1;
+    text-align: center;
+    height: 15vh;
+    padding: 70px 0;
+}
+#bottom-text{
+    padding-top: 9vh;
+    font-size: 16px;
+    color: white;
+}
