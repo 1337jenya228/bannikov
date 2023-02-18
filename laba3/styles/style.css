@@ -1,0 +1,23 @@
+.imgg{
+    text-align: center;
+}
+
+table{
+    margin-top: 35px;
+    border-style: solid;
+    border-color: black;
+    width: 500px;
+    height: 300px;
+    border-width: 2px;
+    border-collapse: collapse;
+}
+
+.left-row{
+    width: 80%;
+    text-align: justify;
+}
+
+.one-two{
+    text-align: center;
+}
+

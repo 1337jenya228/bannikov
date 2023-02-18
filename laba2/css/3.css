@@ -1,0 +1,27 @@
+table,td
+{ 
+    border-style: solid;
+    padding: 5px;
+    border-collapse: collapse;
+    border-color: white;
+    border-bottom-color: white;
+    background-color: LightCyan;
+    grid-row-gap: 1px;
+    color: blue;
+    text-align: left;
+    font-family: 'Ruda', sans-serif;
+}
+th
+{
+ background-color: LightBlue;   
+}
+.column
+{
+    background-color:Salmon; 
+    color: red; 
+}
+.now
+{
+    background-color:PaleGreen; 
+    color: DarkGreen;
+}

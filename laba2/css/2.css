@@ -1,0 +1,35 @@
+th
+{ 
+    border-bottom-color: white;
+    background-color: white; 
+	border-bottom: 2px solid blue; 
+    font-weight: bolder;
+}
+table,td
+{ 
+    border-style: solid;
+    padding: 5px;
+    border-collapse: collapse;
+    border-color: white;
+    border-bottom-color: lightblue;
+    background-color: white;
+    color: blue;
+    text-align: left;
+    font-family: 'Ruda', sans-serif; 
+}
+.column1
+{
+    width: 300px;
+}
+.column2
+{
+    width: 75px;
+}
+.column3
+{
+    width: 75px;
+}
+.column4
+{
+    width: 100px;
+}
