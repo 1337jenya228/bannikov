@@ -30,7 +30,7 @@ body{
 }
 
 .mainbody{
-    background-color: blue;
+    background-color: blueviolet;
     height: 900px;
     background-size: 100% 100%;
 }
@@ -82,8 +82,6 @@ header{
     color: #ffffff;
 }
 
-
-
 .three_box :hover{
     background: #2edc4e
 }
@@ -128,14 +126,14 @@ a {
 }
 .three a:hover {background: #aec2fa6b}
 
-.mainmenu{
+.maimmenu{
     display: flex;
     margin: 0%;
     width: 90%;
     padding-top: 20px;
 }
 
-.mainmenu>h1{
+.maimmenu>h1{
     padding-top: 10px;
     font-family: 'Montserrat-b',sans-serif;
     font-size: 20px;
@@ -194,7 +192,7 @@ a {
     background-color: #f8f8f8;
 }
 
-.authors{
+.autors{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -203,7 +201,7 @@ a {
     padding-bottom: 0%;
 }
 
-.author1{
+.autor1{
     display: flex;
     flex-flow: column;
     text-align: center;
@@ -218,7 +216,7 @@ a {
 
 }
 
-.author1>h5{
+.autor1>h5{
     font-family: 'Montserrat-b',sans-serif;
     font-size: 14px;
     color:#666666;
@@ -226,7 +224,7 @@ a {
     margin-bottom: 10px;
 }
 
-.author1>p{
+.autor1>p{
     font-family: 'Lato-l',sans-serif;
     font-size: 16px;
     color:#666666;
@@ -235,7 +233,7 @@ a {
     line-height: 1.6em;
 }
 
-.author1>img{
+.autor1>img{
     display: block;
     max-width: 100%;
     height: auto;
